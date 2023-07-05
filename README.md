@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Kotlin, Flutter, Firebase, MVVA
-- - 🤔 I’m looking for help with Backend & application
+- - 🤔 I’m looking for help with Backend & IOS
 
 ![kitjdeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitjdeh&show_icons=true&theme=radical)
 
