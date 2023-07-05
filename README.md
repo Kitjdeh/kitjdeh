@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Kotlin, Flutter, Firebase
+- 🌱 I’m currently learning Kotlin, Flutter, Firebase, MVVA
 - - 🤔 I’m looking for help with Backend & application
 
 ![kitjdeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitjdeh&show_icons=true&theme=radical)
